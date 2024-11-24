@@ -21,3 +21,8 @@ cd mini-rag-app
 ```bash
 source bin/activate
 ```
+## Clone this project into your pc in mini-rag folder
+```bash
+git clone https://github.com/kamelmk93/mini-rag.git mini-rag
+cd mini-rag
+```
