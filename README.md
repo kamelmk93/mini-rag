@@ -21,6 +21,8 @@ cd mini-rag-app
 ```bash
 source bin/activate
 ```
+### Create mini-rag repo on GitHub and make sure include the following important 3 files README.md, a License, and .gitignore (choose python for it)
+
 ## Clone this project into your pc in mini-rag folder
 ```bash
 git clone https://github.com/kamelmk93/mini-rag.git mini-rag
