@@ -25,4 +25,5 @@ source bin/activate
 ```bash
 git clone https://github.com/kamelmk93/mini-rag.git mini-rag
 cd mini-rag
+code .
 ```
