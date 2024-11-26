@@ -51,3 +51,10 @@ $ cp .env.example .env
 ```
 
 set your environment variables in the `.env` file (e.g. `BLA_BLA` value)
+
+
+## Run the fastAPI server
+
+```bash
+$ uvicorn main:app --reload --host 0.0.0.0 --port 5000
+```
